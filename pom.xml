@@ -10,6 +10,7 @@
     <modules>
         <module>alex_examples</module>
 		<module>max</module>
+		<module>web</module>
 	</modules>
 
 	<properties>
